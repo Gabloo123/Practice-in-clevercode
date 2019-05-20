@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2018 by original authors @ fontello.com</metadata>
+<defs>
+<font id="help" horiz-adv-x="1000" >
+<font-face font-family="help" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="star" unicode="&#xe800;" d="M741-118q-19 0-39 12l-213 121-215-121q-44-24-84 3-41 29-31 79l50 243q-10 9-39 35t-45 40l-99 90q-37 35-21 82t66 54l244 26 102 225q22 47 72 47 47 0 71-47l101-225 245-27q48-4 65-52t-21-83l-183-166 50-242q7-35-16-64t-60-30z m-425 343q-1-4-7-36t-17-84-20-92l190 107q27 14 52 0l190-107-44 213q-6 29 16 49l161 148-217 23q-30 4-41 30l-90 199-90-199q-13-26-43-30l-216-23 161-148q21-19 15-50z" horiz-adv-x="976" />
+
+<glyph glyph-name="down-open" unicode="&#xe801;" d="M939 399l-414-413q-10-11-25-11t-25 11l-414 413q-11 11-11 26t11 25l93 92q10 11 25 11t25-11l296-296 296 296q11 11 25 11t26-11l92-92q11-11 11-25t-11-26z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
